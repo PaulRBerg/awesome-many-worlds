@@ -69,6 +69,7 @@ Pull Requests are welcome. If you're not familiar with GitHub, take a look at th
 | [Looking Glass Universe: "Many Worlds" is a simplification of quantum mechanics](https://www.youtube.com/watch?v=xBlpOGdk-0U)  | Mithuna Yoganathan          |
 | [Looking Glass Universe: If there are "Many Worlds" why don’t you experience it?](https://www.youtube.com/watch?v=4dCrNMqvYyg) | Mithuna Yoganathan          |
 | [Big Think: The Multiverse is real. Just not in the way you think it is.](https://youtube.com/watch?v=2bZi3Xm9tJE)             | Sean Carroll                |
+| [Parallel Worlds Probably Exist. Here’s Why](https://www.youtube.com/watch?v=kTXTPe3wahc)                                      | Derek Muller                |
 
 ## Audio
 
