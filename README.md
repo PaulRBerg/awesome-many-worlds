@@ -10,8 +10,7 @@ MWI was first proposed by Hugh Everett in his 1957 PhD thesis,
 ["Relative State" Formulation of Quantum Mechanics](http://www.weylmann.com/relative_state.pdf). If you're new to the
 MWI, I recommend starting with David Deutsch's content.
 
-Pull Requests are welcome. If you're not familiar with GitHub, take a look at this
-[tutorial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 
 ## Table of Contents
 
