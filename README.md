@@ -83,16 +83,16 @@ Pull Requests are welcome. If you're not familiar with GitHub, take a look at th
 
 ### Articles
 
-| Title                                                                                                                            | Author(s)      |
-| :------------------------------------------------------------------------------------------------------------------------------- | :------------- |
-| [Measurement is theory-laden](https://conjecturesandrefutations.com/2013/08/26/measurement-is-theory-laden-part-3/)              | Allan Forester |
-| [Tunnelling](https://conjecturesandrefutations.com/2014/11/19/tunnelling/)                                                       | Allan Forester |
-| [The Multiverse on Brett Hall's blog](https://bretthall.org/the-multiverse.html)                                                 | Brett Hall     |
-| ["Many Minds" Interpretation of Quantum Mechanics](https://daviddeutsch.org.uk/many-minds-interpretations-of-quantum-mechanics/) | David Deutsch  |
-| [Many lives in many worlds](https://space.mit.edu/home/tegmark/PDF/everett2.pdf)                                                 | Max Tegmark    |
-| [The Critical Rationalist blog: The Multiverse](https://thecriticalrationalist.weebly.com/the-multiverse.html)                   | Sam Kuypers    |
-| [Many-Worlds Interpretation of Quantum Mechanics](https://plato.stanford.edu/entries/qm-manyworlds/)                             | Stanford       |
-| [Why The Many-worlds Formulation Of Quantum Mechanics Is Probably Correct][probably-correct]                                     | Sean Carroll   |
+| Title                                                                                                                            | Author(s)     |
+| :------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| [Measurement is theory-laden](https://conjecturesandrefutations.com/2013/08/26/measurement-is-theory-laden-part-3/)              | Alan Forester |
+| [Tunnelling](https://conjecturesandrefutations.com/2014/11/19/tunnelling/)                                                       | Alan Forester |
+| [The Multiverse on Brett Hall's blog](https://bretthall.org/the-multiverse.html)                                                 | Brett Hall    |
+| ["Many Minds" Interpretation of Quantum Mechanics](https://daviddeutsch.org.uk/many-minds-interpretations-of-quantum-mechanics/) | David Deutsch |
+| [Many lives in many worlds](https://space.mit.edu/home/tegmark/PDF/everett2.pdf)                                                 | Max Tegmark   |
+| [The Critical Rationalist blog: The Multiverse](https://thecriticalrationalist.weebly.com/the-multiverse.html)                   | Sam Kuypers   |
+| [Many-Worlds Interpretation of Quantum Mechanics](https://plato.stanford.edu/entries/qm-manyworlds/)                             | Stanford      |
+| [Why The Many-worlds Formulation Of Quantum Mechanics Is Probably Correct][probably-correct]                                     | Sean Carroll  |
 
 ### Books
 
