@@ -65,11 +65,11 @@ Pull Requests are welcome. If you're not familiar with GitHub, take a look at th
 | [Why is Everettian quantum theory "not in the consensus"?](https://www.youtube.com/watch?v=x29h12iOWFY)                        | David Deutsch               |
 | [Are there many worlds?](https://youtube.com/watch?v=kNAR74SWOho)                                                              | David Deutsch, Markus Arndt |
 | [Closer to Truth: Many Worlds of Quantum Theory](https://youtube.com/watch?v=bK9JE1HjPi8)                                      | David Wallace               |
+| [Parallel Worlds Probably Exist. Here's Why](https://www.youtube.com/watch?v=kTXTPe3wahc)                                      | Derek Muller                |
 | [PBS Space Time: The Many Worlds of the Quantum Multiverse](https://youtube.com/watch?v=dzKWfw68M5U)                           | Matthew O'Dowd              |
 | [Looking Glass Universe: "Many Worlds" is a simplification of quantum mechanics](https://www.youtube.com/watch?v=xBlpOGdk-0U)  | Mithuna Yoganathan          |
 | [Looking Glass Universe: If there are "Many Worlds" why don’t you experience it?](https://www.youtube.com/watch?v=4dCrNMqvYyg) | Mithuna Yoganathan          |
 | [Big Think: The Multiverse is real. Just not in the way you think it is.](https://youtube.com/watch?v=2bZi3Xm9tJE)             | Sean Carroll                |
-| [Parallel Worlds Probably Exist. Here’s Why](https://www.youtube.com/watch?v=kTXTPe3wahc)                                      | Derek Muller                |
 
 ## Audio
 
