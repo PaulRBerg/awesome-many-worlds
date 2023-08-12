@@ -85,6 +85,7 @@ Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 
 | Title                                                                                                                            | Author(s)     |
 | :------------------------------------------------------------------------------------------------------------------------------- | :------------ |
+| [Fungibility in quantum mechanics](https://conjecturesandrefutations.com/2015/04/04/fungibility-in-quantum-mechanics/)           | Alan Forester |
 | [Measurement is theory-laden](https://conjecturesandrefutations.com/2013/08/26/measurement-is-theory-laden-part-3/)              | Alan Forester |
 | [Tunnelling](https://conjecturesandrefutations.com/2014/11/19/tunnelling/)                                                       | Alan Forester |
 | [The Multiverse on Brett Hall's blog](https://bretthall.org/the-multiverse.html)                                                 | Brett Hall    |
