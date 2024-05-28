@@ -32,6 +32,7 @@ Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 
 | Title                                                                                                                | Speaker(s)                    |
 | :------------------------------------------------------------------------------------------------------------------- | :---------------------------- |
+| [The Multiverse is REAL](https://youtu.be/bux0SjaUCY0)                                                               | David Deutsch, Alex O'Connor  |
 | [Conversations with Coleman: Multiverse of Madness](https://youtube.com/watch?v=6nN-L3DO0-o)                         | David Deutsch, Coleman Hughes |
 | [The Tim Ferriss Show: The Fabric of Reality And Much More](https://youtube.com/watch?v=FfWbcrObpUY)                 | David Deutsch, Naval Ravikant |
 | [Conversations with Tyler: Multiple Worlds and Our Place in Them](https://www.youtube.com/watch?v=b_6vYwCkIpc)       | David Deutsch, Tyler Cowen    |
