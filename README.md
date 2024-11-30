@@ -53,6 +53,8 @@ Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 | [Conversations with Tyler: Multiple Worlds and Our Place in Them](https://www.youtube.com/watch?v=b_6vYwCkIpc)       | David Deutsch, Tyler Cowen    |
 | [Meaning of life TV: The many worlds of quantum physics](https://youtube.com/watch?v=K9Tsk0Efa_o)                    | David Wallace, Robert Wright  |
 | [Reach Truth Podcast: Quantum Physics and Multiple Universes](https://www.youtube.com/watch?v=jtmRZeqvji8)           | Sam Kuypers                   |
+| [Quantum Foundations Podcast: Everettian Quantum Theory](https://youtu.be/kdd-tAvFdOI)                               | Sam Kuypers, Maria Violaris   |
+| [Quantum Foundations Podcast: The Maths Behind Many-Worlds](https://youtu.be/4Z4YPSiV6bM)                            | Sam Kuypers, Maria Violaris   |
 | [Lex Fridman Podcast: Quantum Mechanics and the Many-Worlds Interpretation](https://youtube.com/watch?v=iNqqOLscOBY) | Sean Carroll, Lex Fridman     |
 
 ### Presentations
