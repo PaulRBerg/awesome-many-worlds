@@ -15,9 +15,9 @@ Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 ## Table of Contents
 
 - [Videos](#videos)
+  - [Short Clips](#short-clips)
   - [Podcasts](#podcasts)
   - [Presentations](#presentations)
-  - [Short Clips](#short-clips)
 - [Audio](#audio)
   - [Podcasts](#podcasts)
 - [Texts](#texts)
@@ -27,6 +27,21 @@ Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 - [License](#license)
 
 ## Videos
+
+### Short Clips
+
+| Title                                                                                                                          | Speaker(s)                  |
+| :----------------------------------------------------------------------------------------------------------------------------- | :-------------------------- |
+| [Closer to Truth: Many Worlds of Quantum Theory](https://www.youtube.com/watch?v=Kj2lxDf9R3Y)                                  | David Deutsch               |
+| [David Deutsch in 1995: The multiverse](https://www.youtube.com/watch?v=SDZ454K_lBY)                                           | David Deutsch               |
+| [Why is Everettian quantum theory "not in the consensus"?](https://www.youtube.com/watch?v=x29h12iOWFY)                        | David Deutsch               |
+| [Are there many worlds?](https://youtube.com/watch?v=kNAR74SWOho)                                                              | David Deutsch, Markus Arndt |
+| [Closer to Truth: Many Worlds of Quantum Theory](https://youtube.com/watch?v=bK9JE1HjPi8)                                      | David Wallace               |
+| [Parallel Worlds Probably Exist. Here's Why](https://www.youtube.com/watch?v=kTXTPe3wahc)                                      | Derek Muller                |
+| [PBS Space Time: The Many Worlds of the Quantum Multiverse](https://youtube.com/watch?v=dzKWfw68M5U)                           | Matthew O'Dowd              |
+| [Looking Glass Universe: "Many Worlds" is a simplification of quantum mechanics](https://www.youtube.com/watch?v=xBlpOGdk-0U)  | Mithuna Yoganathan          |
+| [Looking Glass Universe: If there are "Many Worlds" why don’t you experience it?](https://www.youtube.com/watch?v=4dCrNMqvYyg) | Mithuna Yoganathan          |
+| [Big Think: The Multiverse is real. Just not in the way you think it is.](https://youtube.com/watch?v=2bZi3Xm9tJE)             | Sean Carroll                |
 
 ### Podcasts
 
@@ -55,21 +70,6 @@ Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 | [Santa Fe Institute: The Many Worlds of Quantum Mechanics](https://youtube.com/watch?v=nOgalPdfHxM)                                   | Sean Carroll             |
 | [The Cartesian Cafe: The Many Worlds Interpretation & Emergent Spacetime](https://youtube.com/watch?v=LGtimjuA5gA)                    | Sean Carroll, Tim Nguyen |
 | [Forum for Philosophy: Parallel Universes](https://www.youtube.com/watch?v=ZcbXJ7appIE)                                               | Simon Saunders et al.    |
-
-### Short Clips
-
-| Title                                                                                                                          | Speaker(s)                  |
-| :----------------------------------------------------------------------------------------------------------------------------- | :-------------------------- |
-| [Closer to Truth: Many Worlds of Quantum Theory](https://www.youtube.com/watch?v=Kj2lxDf9R3Y)                                  | David Deutsch               |
-| [David Deutsch in 1995: The multiverse](https://www.youtube.com/watch?v=SDZ454K_lBY)                                           | David Deutsch               |
-| [Why is Everettian quantum theory "not in the consensus"?](https://www.youtube.com/watch?v=x29h12iOWFY)                        | David Deutsch               |
-| [Are there many worlds?](https://youtube.com/watch?v=kNAR74SWOho)                                                              | David Deutsch, Markus Arndt |
-| [Closer to Truth: Many Worlds of Quantum Theory](https://youtube.com/watch?v=bK9JE1HjPi8)                                      | David Wallace               |
-| [Parallel Worlds Probably Exist. Here's Why](https://www.youtube.com/watch?v=kTXTPe3wahc)                                      | Derek Muller                |
-| [PBS Space Time: The Many Worlds of the Quantum Multiverse](https://youtube.com/watch?v=dzKWfw68M5U)                           | Matthew O'Dowd              |
-| [Looking Glass Universe: "Many Worlds" is a simplification of quantum mechanics](https://www.youtube.com/watch?v=xBlpOGdk-0U)  | Mithuna Yoganathan          |
-| [Looking Glass Universe: If there are "Many Worlds" why don’t you experience it?](https://www.youtube.com/watch?v=4dCrNMqvYyg) | Mithuna Yoganathan          |
-| [Big Think: The Multiverse is real. Just not in the way you think it is.](https://youtube.com/watch?v=2bZi3Xm9tJE)             | Sean Carroll                |
 
 ## Audio
 
