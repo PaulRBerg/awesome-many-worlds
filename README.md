@@ -23,6 +23,7 @@ Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 - [Texts](#texts)
   - [Articles](#articles)
   - [Books](#books)
+- [Movies/Series](#moviesseries)
 - [Miscellaneous](#miscellaneous)
 - [License](#license)
 
@@ -87,7 +88,7 @@ Pull Requests are welcome. See the [contributor's guide](./CONTRIBUTING.md).
 ### Articles
 
 | Title                                                                                                                            | Author(s)      |
-| :------------------------------------------------------------------------------------------------------------------------------- | :------------  |
+| :------------------------------------------------------------------------------------------------------------------------------- | :------------- |
 | [Understanding Many-Worlds: A Beginner's Guide](https://maxdesalle.com/understanding-many-worlds/)                               | Maxime Desalle |
 | [Fungibility in quantum mechanics](https://conjecturesandrefutations.com/2015/04/04/fungibility-in-quantum-mechanics/)           | Alan Forester  |
 | [Measurement is theory-laden](https://conjecturesandrefutations.com/2013/08/26/measurement-is-theory-laden-part-3/)              | Alan Forester  |
@@ -112,11 +113,15 @@ If you only read one book on this list, go with The Beginning of Infinity.
 | [Something Deeply Hidden](https://amazon.com/Something-Deeply-Hidden-Emergence-Spacetime/dp/1524743011)                                    | Sean Carroll          |
 | [Many Worlds?](https://amazon.com/Many-Worlds-Everett-Quantum-Reality-ebook/dp/B006UQ9770)                                                 | Simon Saunders et al. |
 
+## Movies/Series
+
+- [Devs](https://www.imdb.com/title/tt8134186/): a TV series about quantum computers that takes many-worlds seriously
+- [Sliding Doors](https://www.imdb.com/title/tt0120148/): a movie that shows the parallel view of a woman's life
+- [Dark Matter](https://www.imdb.com/title/tt19231492/): a TV series about a physicist navigating alternate realities
+
 ## Miscellaneous
 
 - [2022 research workshop at Tel Aviv University](https://www.mwi2022tau.com/): academic conference on many-worlds
-- [Devs](https://www.imdb.com/title/tt8134186/): a TV series about quantum computers that takes many-worlds seriously
-- [Sliding Doors](https://www.imdb.com/title/tt0120148/): a movie that shows the parallel view of a woman's life
 - [Universe Splitter](https://cheapuniverses.com/universesplitter/): an app that shoots single photons through a
   half-silvered mirror, measures the result, and tells you which universe you ended up in
 
